@@ -75,7 +75,7 @@ function setMole() {
     }
 
     let mole = document.createElement("img");
-    mole.src = "Images/monty-mole.png";
+    mole.src = "monty-mole.png";
 
     let randomGrid = getRandomGrid();
 
@@ -101,7 +101,7 @@ function setPlant() {
     }
 
     let plant = document.createElement("img");
-    plant.src = "Images/piranha-plant.png";
+    plant.src = "piranha-plant.png";
 
     let randomGrid = getRandomGrid();
 
